@@ -23,8 +23,8 @@ class MyApp extends StatelessWidget {
       initialRoute: '/splash',
       routes: {
         '/splash': (ctx) => const SplashScreen(),
-        '/login':  (ctx) => const LoginScreen(),
-        '/signup': (ctx) => const SignupScreen(),
+        '/login': (ctx) => const LoginScreen(),
+
         '/otp':
             (context) =>
                 const OtpVerificationScreen(phoneNumber: '+91 1234567890'),
