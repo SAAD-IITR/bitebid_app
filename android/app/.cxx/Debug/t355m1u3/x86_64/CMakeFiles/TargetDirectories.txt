@@ -1,0 +1,2 @@
+C:/Users/khush/Desktop/BiteBid/-BiteBid-App-/android/app/.cxx/Debug/t355m1u3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/khush/Desktop/BiteBid/-BiteBid-App-/android/app/.cxx/Debug/t355m1u3/x86_64/CMakeFiles/rebuild_cache.dir
